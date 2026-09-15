@@ -4,6 +4,13 @@ A compact MATLAB app for linear-elastic, pin-jointed 2-D trusses. It solves
 nodal displacements, axial member forces, and support reactions with the direct
 stiffness method.
 
+## Requirements
+
+- MATLAB with support for `uifigure` and the `matlab.unittest` framework
+- No third-party toolboxes or packages
+
+The app and regression tests have been verified with MATLAB R2025b.
+
 ## Run
 
 In MATLAB, change to this folder and run:

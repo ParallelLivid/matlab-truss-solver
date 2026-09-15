@@ -1,0 +1,18 @@
+# MATLAB temporary and generated files
+*.asv
+*.m~
+*.autosave
+*.slxc
+*.mex*
+slprj/
+sccprj/
+codegen/
+
+# Local build and coverage output
+build/
+coverage/
+
+# Operating-system metadata
+.DS_Store
+Thumbs.db
+Desktop.ini

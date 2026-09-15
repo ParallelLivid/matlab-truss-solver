@@ -1,0 +1,5 @@
+# Keep source files consistent across Windows, macOS, and Linux checkouts.
+* text=auto eol=lf
+
+# Images are binary assets.
+*.png binary
